@@ -1,6 +1,7 @@
 # NFL-Big-Data-Bowl-2022
-To create a new special teams metric, quantify team or individual strategies, and rank players,
+To create a new special teams metric, quantify team or individual strategies, and rank players.
 
+[competition: https://www.kaggle.com/c/nfl-big-data-bowl-2022/code]
 ## Description
 
 
